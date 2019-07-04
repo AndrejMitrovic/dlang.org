@@ -59,6 +59,17 @@ $(DIVC orgs-using-d center,
             $(FA_TESTIMONIAL) $(LINK2 http://www.auburnsounds.com/blog/2016-02-08_Making-a-Windows-VST-plugin-with-D.html, Testimonial)
          )
     )
+    $(DORG BOSAGORA, https://bosagora.io/, bosagora.png,
+        Open & Decentralized Blockchain in D,
+        $(FA_QUOTE
+            We use the D language to develop an open & decentralized blockchain protocol.
+        )
+        $(LINK_ROW
+            $(FA_GITHUB bpfkorea) $(FA_SEPARATOR)
+            $(FA_HIRING careers@bosagora.io)
+            $(FA_HIRING https://bosagora.io/pdf/DDev.pdf)
+         )
+    )
     $(DORG CERERIS, http://www.myriad-corp.com, cereris.png,
         Hardware and Software development,
         $(FA_QUOTE
